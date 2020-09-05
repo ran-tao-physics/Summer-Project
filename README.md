@@ -11,6 +11,12 @@ Plots centerline flux through disk of skimmer radius from skimmer tip (set as x 
 ## Bird.m
 Prepares DS2VD.DAT file for simulation in Bird DS2V software with focus on the skimmer tip 
 
+## vacuum_interference.m
+Prepares DS2VD.DAT file for simulation in Bird DS2V software that includes the entire skimmer
+
+## Manual.docx
+Manual for using the Bird DS2V software with the MATLAB files listed above
+
 ## simulation.m and .cpp files
 Custom DSMC simulation, used along with the stlread file
 
