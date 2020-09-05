@@ -2,10 +2,10 @@
 Skimmer flow simulation code for summer project with smf group
 MATLAB script for interfacing with Bird DS2V software and custom DSMC code in MATLAB and MEX C++
 
-# prepare_data.m 
+## prepare_data.m 
 Transfers data from Bird DS2V software output DS2FF.DAT to MATLAB array
 
-# plot_data.m
+## plot_data.m
 Plots centerline flux through disk of skimmer radius from skimmer tip (set as x = 0 in the simulation) to the exit
 
 # Bird.m
